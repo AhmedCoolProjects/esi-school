@@ -226,6 +226,7 @@ const config = {
         darkTheme: darkCodeTheme,
         additionalLanguages: ["java"],
       },
+
       // algolia: {
       //   // The application ID provided by Algolia
       //   appId: "YOUR_APP_ID",
@@ -247,6 +248,13 @@ const config = {
       //   //... other Algolia params
       // },
     }),
+  scripts: [
+    {
+      src: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9462389809344404",
+      async: true,
+      crossOrigin: "anonymous",
+    },
+  ],
 };
 
 module.exports = config;
