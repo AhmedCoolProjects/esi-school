@@ -1,7 +1,12 @@
 {
-  "name": "code-esi-docs",
-  "version": "0.0.0",
+  "name": "esi-docs",
+  "version": "0.0.1",
   "private": true,
+  "author": {
+    "name": "Ahmed Bargady",
+    "email": "ahmed.bargady@outlook.com"
+  },
+  "description": "ESI Documentation for summaries and courses",
   "scripts": {
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
