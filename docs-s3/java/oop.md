@@ -123,6 +123,24 @@ p1.setAge(23); // calling the setter to set the new value of the age attribute
 A static attribute is shared between with each object from the same class **with the same value**.
 A static method **independant of the object** and **doesn't treat any not static attribute**. Also calling this method **doesn't need to initiate an object** from the class to use it.
 
+```java title="Person.java"
+public class Person{
+    private static int age = 22;
+    
+    public static int getAge(){
+        return age;
+    }
+    public Person(int age_local){
+        age = age_local;
+    }
+}
+```
+```java title="test.java"
+// I wanna get the age of all the persons
+Person.age; // false, because the age is private
+Person.getAge(); // ok
+```
+
 ### Final
 
 - Final attribute: can't be modified
