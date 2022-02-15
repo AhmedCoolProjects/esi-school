@@ -124,3 +124,5 @@ collection non ordonnee sans doublon. Les operation sont exactement celles de la
 - stocker les elements en conservant l'ordre => **Liste**
 - collection unique sans doublon => **Set, HashSet, LinkedHashSet, TreeSet**
 - stocker les donnees sous la forme key/value => **Map, Hashtable, HashMap, TreeMap**
+- insertion et suppression à faible coût => **LinkedList**
+
