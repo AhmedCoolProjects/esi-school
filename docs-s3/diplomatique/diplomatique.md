@@ -82,7 +82,7 @@ La diplomatique s'est beaucoup élargi, maintenent elle conserne:
 
 Créateurs des docs qui produisent l'infromation organisée. Ils ont besoin de **méthodes** et de **savoir**
 
-### Les Chercheurs
+### Les Chercheurrs
 
 Aussi les **ingénieurs** et les **experts** des sciences _humaines_, _sociales_, _juridiques_ et _économique_ et aussi les **techniciens** divers.
 
