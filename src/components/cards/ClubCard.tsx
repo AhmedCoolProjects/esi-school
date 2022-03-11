@@ -11,14 +11,16 @@ export function ClubCard(props: ESIClubsCardProps) {
         alt={name}
       />
       <h1 className="text-2xl ">{name}</h1>
-      <h1 className="text-base opacity-80 text-center ">{description}</h1>
+      <h1 className="text-xl font-normal opacity-80 text-center ">
+        {description}
+      </h1>
       <div className="flex flex-row items-center justify-around py-3 w-full ">
         <a href={linkedIn} rel="noopener noreferrer" target="_blank">
-          <img src="/img/logos/linkedin.svg" className="w-10 h-10" />
+          <img src="img/logos/linkedin.svg" className="w-10 h-10" />
         </a>
         <a href={url} target="_blank" rel="noopener noreferrer">
           <img
-            src="/img/logos/web.svg"
+            src="img/logos/web.svg"
             className="w-10 h-10 bg-cyan-500 rounded-full "
           />
         </a>

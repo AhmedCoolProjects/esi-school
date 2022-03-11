@@ -1,7 +1,12 @@
 ---
+title: Préparation du budget
+sidebar_position: 4
 ---
 
-## 1ère étape
+## 1ère étape Janvier-Mars
+
+- dépense publique
+- placer le budget dans une perspective pluriannuelle
 
 ## 2ème étape Avril-Mai
 

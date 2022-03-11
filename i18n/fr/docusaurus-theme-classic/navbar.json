@@ -1,0 +1,38 @@
+{
+  "title": {
+    "message": "ESI School Docs",
+    "description": "The title in the navbar"
+  },
+  "item.label.S1": {
+    "message": "S1",
+    "description": "Navbar item with label S1"
+  },
+  "item.label.S2": {
+    "message": "S2",
+    "description": "Navbar item with label S2"
+  },
+  "item.label.S3": {
+    "message": "S3",
+    "description": "Navbar item with label S3"
+  },
+  "item.label.S4": {
+    "message": "S4",
+    "description": "Navbar item with label S4"
+  },
+  "item.label.S5": {
+    "message": "S5",
+    "description": "Navbar item with label S5"
+  },
+  "item.label.Events": {
+    "message": "Événements",
+    "description": "Navbar item with label Events"
+  },
+  "item.label.Blog": {
+    "message": "Blog",
+    "description": "Navbar item with label Blog"
+  },
+  "item.label.Github": {
+    "message": "Github",
+    "description": "Navbar item with label Github"
+  }
+}

@@ -1,6 +1,6 @@
 ---
-sidebar_position: 4
 title: Introduction to S4
+sidebar_position: 1
 ---
 
 # Welcome

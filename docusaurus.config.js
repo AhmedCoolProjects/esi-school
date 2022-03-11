@@ -4,7 +4,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "ESI SCHOOL",
-  tagline: "A documentation site for the ESI School students",
+  tagline: "A documentation site for ESI School students",
   url: "https://esi.codeesi.com",
   baseUrl: "/",
   onBrokenLinks: "throw",
@@ -165,10 +165,14 @@ const config = {
             activeBaseRegex: `/blog/`,
           },
           {
-            href: "https://github.com/AhmedCoolProjects/ESISchoolDocs",
-            label: "Github",
+            type: "localeDropdown",
             position: "right",
           },
+          // {
+          //   href: "https://github.com/AhmedCoolProjects/ESISchoolDocs",
+          //   label: "Github",
+          //   position: "right",
+          // },
           {
             type: "search",
             position: "right",
@@ -205,7 +209,7 @@ const config = {
               },
               {
                 label: "ENACTUS",
-                href: "https://enactusesi.vercel.app/",
+                href: "https://enactus.codeesi.com/",
               },
             ],
           },
@@ -255,6 +259,15 @@ const config = {
       crossOrigin: "anonymous",
     },
   ],
+  i18n: {
+    defaultLocale: "en",
+    locales: ["en", "fr"],
+    localeConfigs: {
+      en: {
+        htmlLang: "en-GB",
+      },
+    },
+  },
 };
 
 module.exports = config;

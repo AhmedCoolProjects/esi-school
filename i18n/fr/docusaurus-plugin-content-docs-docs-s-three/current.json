@@ -1,0 +1,50 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.JAVA": {
+    "message": "JAVA",
+    "description": "The label for category JAVA in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.UML": {
+    "message": "UML",
+    "description": "The label for category UML in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Diagrammes Dynamiques": {
+    "message": "Diagrammes Dynamiques",
+    "description": "The label for category Diagrammes Dynamiques in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Diagrammes Statiques": {
+    "message": "Diagrammes Statiques",
+    "description": "The label for category Diagrammes Statiques in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Droit": {
+    "message": "Droit",
+    "description": "The label for category Droit in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Diplomatique Contemporaine": {
+    "message": "Diplomatique Contemporaine",
+    "description": "The label for category Diplomatique Contemporaine in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Système d'Archivage Electronique": {
+    "message": "Système d'Archivage Electronique",
+    "description": "The label for category Système d'Archivage Electronique in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Gouvernance": {
+    "message": "Gouvernance",
+    "description": "The label for category Gouvernance in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Communication des organisations": {
+    "message": "Communication des organisations",
+    "description": "The label for category Communication des organisations in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.budget": {
+    "message": "budget",
+    "description": "The label for category budget in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.risk": {
+    "message": "risk",
+    "description": "The label for category risk in sidebar tutorialSidebar"
+  }
+}
