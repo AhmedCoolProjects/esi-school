@@ -164,10 +164,10 @@ const config = {
             position: "left",
             activeBaseRegex: `/blog/`,
           },
-          {
-            type: "localeDropdown",
-            position: "right",
-          },
+          // {
+          //   type: "localeDropdown",
+          //   position: "right",
+          // },
           // {
           //   href: "https://github.com/AhmedCoolProjects/ESISchoolDocs",
           //   label: "Github",
@@ -258,16 +258,7 @@ const config = {
       async: true,
       crossOrigin: "anonymous",
     },
-  ],
-  i18n: {
-    defaultLocale: "en",
-    locales: ["en", "fr"],
-    localeConfigs: {
-      en: {
-        htmlLang: "en-GB",
-      },
-    },
-  },
+  ]
 };
 
 module.exports = config;
