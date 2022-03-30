@@ -4,6 +4,7 @@ sidebar_position: 1
 ---
 
 ## Pourquoi ce cours?
+Le Management des Services d'Information Documentaires.
 
 Dans le secteur _info-documentaire_, vous serez chargé de:
     - la planification des taches
