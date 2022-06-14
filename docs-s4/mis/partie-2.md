@@ -78,3 +78,29 @@ Les 2 types d'objectifs?
 ## 3. Direction
 
 ## 4. Contrôle
+
+Toute activité qui consiste à **suivre**, à **vérifier** et à **évaluer** le degré de conformité des actions entreprises ou réalisées par rapport aux prévisions et aux programmes.
+
+L'objectif étant de **combler** _les écarts_ et d'**apporter** _les corrections_ nécessaires. Aussi pour **connaître** ses forces et ses faiblesses d'une manière continue.
+
+Le contrôle se décompose en 4 phases:
+
+### a. Fixation des Standards
+
+En déterminant les éléments de références auxquels est comparé le résultat. Ils sont élaborés en fonction du résultat souhaité.
+
+### b. Mesure de la Performance et Communication du Résultat
+
+Les techniques quantitatives de gestion permettent de mesurer les résultats tandis que la communication vise à favoriser l'information des acteurs concernés par ces données.
+
+### c. Comparaison des Résultats avec les Standards
+
+### d. Action Corrective
+
+- Modéfication de l'objectif
+- Renforcement d'un résultat obtenu
+- Inaction
+
+:::note
+Toutefois, ces phases _(de controle)_ doivent être prises rapidement et prendre en compte l'ensemble des éléments qui influencent le résultat.
+:::
