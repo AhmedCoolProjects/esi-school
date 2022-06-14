@@ -1,56 +1,20 @@
 ---
-title: Introduction
+title: Introduction de l'élement de module
 sidebar_position: 1
-slug: intro
 ---
 
 ## Définitions
 
-### Veiller
-
-c'est **Rester éveillé**, **Observer**, **Scruter** et **M ontrer la garde**
-
-### Stratégie
-
-Terme issu des champs de la guerre. C'est _L'art de **diriger** la force vers les fins à atteindre_. _(Julian Corbett)_
-
 ### La Veille
 
-Processus à valeurs ajoutées de **collecte**, **transmission**, **analyse** et **diffusion** d'information _publiquement disponible_, obtenue _éthiquement_ et _légalement_, pour **produire** de la _connaissance d'action_, **réduire** _l'incertitude_, **supporter** une meilleure _prise de décision et l'action_ dans l'organisation.
+De veiller qui veut dire **Rester éveillé**, **Observer**, **Scruter**, **Montrer la garde**, **Trouver l'information**, **Acquérir**, **Analyser**, **Diffuser** et **Intégrer**.
 
-## Qui est concerné?
+Processus à _valeurs ajoutées_ de collecte, transmission, analyse et diffusion d'information publiquement disponible, obtenue éthiquement et légalement, pour produire de la **connaissance d'action**, pour réduire l'incertitude, supporter une meilleure prise de décision et l'action dans l'organisation.
 
-- Etats
-- Entreprises publiques, privées, associations
-- Universités
-- Centres de recherche
-- Laboratoires
-- Futur entrepreneur
-- ...
+### La Stratégie
 
-## Quelle information?
+- C'est l'art de **diriger** la _force_ vers les fins à atteindre. _(Julian Corbett, 1911)_.
 
-- Politique
-- Economique
-- Sociale
-- Financière
-- ...
-
-## Types de Veille
-
-- Technologique
-- Commerciale
-- Concurrentielle
-- Juridique
-- Sociale
-- Politique
-- Financière
-- Compétence
-
-Tout cela nous donne une **Veille Stratégique** pour aller aux **actions factuelles** et/ou **d'influence**.
-
-## Veille concurrentielle et commerciale (produit/marché)
-
-## Veille financière
-
-## Veille organisationnelles/Ressources humaines
+:::note
+La conception de l'action n'est _stratégique_ que si elle **s'oppose** à un _Autre_.
+:::
