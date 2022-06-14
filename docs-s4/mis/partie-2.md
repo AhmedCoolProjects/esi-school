@@ -3,6 +3,8 @@ title: Fonctions du Management Stratégique
 sidebar_position: 2
 ---
 
+![management-and-strategy-announcement-and-business-growth](https://user-images.githubusercontent.com/72823374/173613014-12af257d-d4c9-4434-ac63-740c831cb8a8.png)
+
 ## 1. Planification
 
 Est un processus systématique et continu de préparation de l'avenir. C'est une réflexion sur le **quoi faire** et le **comment faire**.
@@ -76,6 +78,30 @@ Les 2 types d'objectifs?
 ## 2. Organisation
 
 ## 3. Direction
+
+Vise à stimuler les ressources humaines de l'entreprise, de sorte que celles-ci offrent leurs collaborations actives à la réalisation des objectifs fixés préalablement. Elle concerne l'_Orientation_ et l'_Animation_ des Hommes/Femmes en influençant positivement les membres de ce groupe de travail afin de s'assurer que les buts visés seront atteints.
+
+:::note
+La **Direction** est basée essenciellement sur les **_Relations Interpersonnelles_**.
+:::
+
+Le **Manager** doit savoir communiquer avec tous ceux qui oeuvrent à atteindre les objectifs, il doit les: _Diriger_, _Motiver_ et _Encourager_.
+
+:::tip
+La **Motivation** regroupe les raisons qui poussent les personnes à agir dans le but de satisfaire un besoin déterminé.
+:::
+
+Cette étape est indispensable pour la mise en action de **l'individu**.
+
+:::info
+Le **Style de Direction** correspond à la manière d'exercer le pouvoir et la façon pour un dirigeant d'établir les relations avec ses subordonnés. Il dépend de nombreux facteurs, tels que:
+
+- La personnalité et les caractéristiques du dirigeant.
+- La taille de l'entreprise.
+- La propriété de l'entreprise.
+- L'environnement de l'entreprise et la culture.
+
+:::
 
 ## 4. Contrôle
 

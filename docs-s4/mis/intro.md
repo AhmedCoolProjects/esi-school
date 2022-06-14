@@ -3,6 +3,19 @@ title: Introduction
 sidebar_position: 1
 ---
 
+<div 
+style={{
+    display: 'flex',
+    flexDirection: 'column',
+    alignItems: 'center',
+    justifyContent: 'center',
+}}
+>
+<img src="https://user-images.githubusercontent.com/72823374/173613904-1081faf2-4c79-492f-90e8-ff68d880af0d.png"
+/>
+
+</div>
+
 ## Historiquement
 
 1. latin: manus _(force et autorité)_
