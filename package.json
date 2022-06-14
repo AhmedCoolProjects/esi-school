@@ -4,7 +4,8 @@
   "private": true,
   "author": {
     "name": "Ahmed Bargady",
-    "email": "ahmed.bargady@outlook.com"
+    "email": "ahmed.bargady@outlook.com",
+    "url": "https://www.ahmedbargady.me"
   },
   "description": "ESI Documentation for summaries and courses",
   "scripts": {
