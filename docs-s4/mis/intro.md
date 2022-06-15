@@ -71,3 +71,41 @@ Les limites de l'école classique?
 ### 3.1. L'Ecole de la Contingence
 
 ### 3.2. Théorie de la Décision
+
+Une décision est un processus par lequel une entreprise passe d'une position stratégique à une autre.
+
+**_Herbert A.Simon_** _(1916-2001)_ professeur d'administration et de psychologie. Prix Nobel des sciences économiques en 1978. Simon critique la vision classique des organisations (Taylor et Fayol). Il a analysé à partir de 1950 le processus décisionnels dans les organisations et formalise un concept essentiel: **La Rationalité Limitée**.
+
+La Rationalité est limitée par 3 facteurs:
+
+1. **L'information disponible**: le décideur ne peut pas connaitre parfaitement toutes les informations pour choisir de manière optimale et rationnelle.
+2. **Les motivations du décideur**: la psychologie, les buts, les comportements des décideurs influencent ses décisions bien plus que la logique du problème à traiter.
+3. **Les capacités du décideur**: les réflexes, les connaissances du décideur limitent sa compréhension de la situation.
+
+:::note
+On n'est pas permis de parvenir à la solution optimale!
+
+---
+
+Mais, on cherche la **Solution Satisfaisante**. Alors, la satisfaction remplace l'optimisme.
+:::
+
+:::tip
+Simon s'est également intéressé au processus décisionnel qu'il a scindé en 3 phases:
+
+---
+
+1. La **Perception** et l'**Identification** du problème: _intelligence_
+2. La **Conception** des solutions: _compétences_
+3. La **Sélection** de la meilleure solution: _choix_
+
+---
+
+Simon a aussi défini 2 types de décisions:
+
+---
+
+- **Programmables**: _répétitives_
+- **Non Programmables**: _exceptionnelles_
+
+:::
