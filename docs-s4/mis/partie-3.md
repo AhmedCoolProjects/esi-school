@@ -3,6 +3,8 @@ title: Fonctions du Management Stratégique
 sidebar_position: 3
 ---
 
+Une explication des 4 étapes fondamentales du management stratégique: Planification, Organisation, Direction et Contrôle.
+
 ![management-and-strategy-announcement-and-business-growth](https://user-images.githubusercontent.com/72823374/173613014-12af257d-d4c9-4434-ac63-740c831cb8a8.png)
 
 ## 1. Planification

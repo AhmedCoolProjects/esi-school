@@ -3,6 +3,8 @@ title: Analyse de l'Environnement
 sidebar_position: 2
 ---
 
+Une analyse de l'environnement des organisations pour le management en utilisant 2 différents outils: PESTEL et SWOT.
+
 <div
 style={{
 display: 'flex',

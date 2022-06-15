@@ -3,6 +3,8 @@ title: Introduction
 sidebar_position: 1
 ---
 
+Une introduction au terme **Management** dans son contexte historique en parcourant les 3 courants de cette pensée pour les organisations.
+
 <div 
 style={{
     display: 'flex',
