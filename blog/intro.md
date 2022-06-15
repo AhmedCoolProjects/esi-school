@@ -1,7 +1,5 @@
 ---
 sidebar_position: 1
-title: Introduction
+title: Welcome
 authors: [Ahmed]
 ---
-
-# Introduction
