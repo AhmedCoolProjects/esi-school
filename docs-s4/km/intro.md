@@ -49,7 +49,7 @@ Essentiellement sur la connaissance et le savoir-faire des étres humains. La gr
 :::
 
 :::tip
-Gestion des connaissances? _(J.L.Ermine)_
+Gestion des connaissances? _(J.I.Ermine)_
 
 ---
 
