@@ -1,5 +1,5 @@
 ---
-title: Statistique Unidimensionnelle
+title: Unidimensionnelle
 sidebar_position: 2
 ---
 
