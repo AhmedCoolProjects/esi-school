@@ -1,5 +1,7 @@
 const lightCodeTheme = require("prism-react-renderer/themes/github");
 const darkCodeTheme = require("prism-react-renderer/themes/dracula");
+const math = require("remark-math");
+const katex = require("rehype-katex");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -37,6 +39,8 @@ const config = {
         showLastUpdateAuthor: true,
         showLastUpdateTime: true,
         editCurrentVersion: true,
+        remarkPlugins: [math],
+        rehypePlugins: [katex],
       },
     ],
     [
@@ -51,6 +55,8 @@ const config = {
         showLastUpdateAuthor: true,
         showLastUpdateTime: true,
         editCurrentVersion: true,
+        remarkPlugins: [math],
+        rehypePlugins: [katex],
       },
     ],
     [
@@ -65,6 +71,8 @@ const config = {
         showLastUpdateAuthor: true,
         showLastUpdateTime: true,
         editCurrentVersion: true,
+        remarkPlugins: [math],
+        rehypePlugins: [katex],
       },
     ],
     [
@@ -79,6 +87,8 @@ const config = {
         showLastUpdateAuthor: true,
         showLastUpdateTime: true,
         editCurrentVersion: true,
+        remarkPlugins: [math],
+        rehypePlugins: [katex],
       },
     ],
     [
@@ -93,6 +103,8 @@ const config = {
         showLastUpdateAuthor: true,
         showLastUpdateTime: true,
         editCurrentVersion: true,
+        remarkPlugins: [math],
+        rehypePlugins: [katex],
       },
     ],
     [
@@ -107,6 +119,8 @@ const config = {
         showLastUpdateAuthor: true,
         showLastUpdateTime: true,
         editCurrentVersion: true,
+        remarkPlugins: [math],
+        rehypePlugins: [katex],
       },
     ],
   ],
@@ -252,13 +266,22 @@ const config = {
       //   //... other Algolia params
       // },
     }),
-  scripts: [
+  stylesheets: [
     {
-      src: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9462389809344404",
-      async: true,
-      crossOrigin: "anonymous",
+      href: "https://cdn.jsdelivr.net/npm/katex@0.13.24/dist/katex.min.css",
+      type: "text/css",
+      integrity:
+        "sha384-odtC+0UGzzFL/6PNoE8rX/SPcQDXBJ+uRepguP4QkPCm2LBxH3FA3y+fKSiJ+AmM",
+      crossorigin: "anonymous",
     },
-  ]
+  ],
+  // scripts: [
+  //   {
+  //     src: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9462389809344404",
+  //     async: true,
+  //     crossOrigin: "anonymous",
+  //   },
+  // ],
 };
 
 module.exports = config;
