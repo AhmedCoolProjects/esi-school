@@ -3,6 +3,8 @@ title: Systèmes Experts
 sidebar_position: 1
 ---
 
+<img src="https://user-images.githubusercontent.com/72823374/175177241-ac3bf9a3-8c4c-46ee-b343-a49f4f2eaea7.png" alt="se" />
+
 Un système expert _(SE)_ est un programme conçu pour raisonner habilement à propos de taches dont elles requièrent une _expertise humaine considérable_. Il est capable de mettre en oeuvre des connaissances pour **imiter** le comportement et/ou le raisonnement des experts dans un domaine d'expertise particulier. Il effectue des taches de résolution de problème pour lesquelles la solution algorithmique classique est très difficile et complexe. Il a l'avantage qu'il est _duplicable_ et toujours _disponible_ et ses connaissances sont extraites de plusieurs experts.
 
 ## 1. Domaines d'application
@@ -47,7 +49,7 @@ Indépendant du domaine d'application.
 
 L'interface d'interaction avec les utilisateurs pour la saisie des questions et l'affichage des réponses.
 
-### 2.5. Composants Supplémentaires
+### 2.5. Composantes Supplémentaires
 
 ![image](https://user-images.githubusercontent.com/72823374/175103325-90c56c5e-ba0a-446e-9c3e-d2fd2ecfdd26.png)
 
@@ -131,15 +133,74 @@ Dans le cas où la phase d'éxécution déboucherait sur un échec, il existe de
 
 ## 5. MI: Mode de Raisonnement
 
+Le processus de raisonnement du MI consiste à **enchainer** les règles, alors un **chainage**.
+
+Puis il représente les règles sous forme d'un **graph de décision/production** de la sorte: `conclusion(s) si condition(s)`
+
 ### 5.1. Chaînage Avant
+
+- **Déductif**
+- Commence par les faits initiaux et en se basant sur les règles, il déduit des nouveaux faits.
+- S'arrete lorsqu'**aucune** règle n'est applicable.
+- Les étapes:
+
+  1. Sélection des règles dont les prémisses sont dans la base de faits.
+  2. Application d'une de ses règles afin d'ajouter des faits à la BF.
+  3. Répétition jusqu'à la saturation _(aucun fait ne peut être ajouté)_ ou jusqu'on atteint le but.
+
+- Exemple:
+
+  ![image](https://user-images.githubusercontent.com/72823374/175169268-1628d190-363d-4386-93e0-c9fd37897257.png)
 
 ### 5.2. Chaînage Arrière
 
-## 6. Autour d'un projet SE
+- Parcours guidé par le but.
+- On cherche à prouver un but.
+- Commence par les **hypothèses** et recherche les règles qui peuvent prouver l'hypothèse.
+- Les conditions non vérifiées des règles déclenchées deviennent elles mêmes des sous buts à vérifier.
+- Etapes:
+
+  1. Sélection des règles dont la conclusion correspond au but recherché. Ses prémisses deviennent elles mêmes des buts à prouver.
+  2. Arrétant lorsque tous les sous buts sont prouvés _(alors le but est atteint)_, ou lorsqu'il n'est plus possible de sélectionner une règle.
+
+- Régime de contrôle par Tentatives.
+
+## 6. Acteurs d'un projet SE
+
+1. **Informaticien**:
+
+   Construction du MI et de l'IU.
+
+2. **Ingénieur de la connaissance _(cogniticien)_**:
+
+   design, construction et débogage de la BC.
+
+3. **Experts du domaine**:
+
+   Connaissance sémantique du domaine en terme de relation entre les faits et événements.
+
+4. **Utilisateurs**:
+
+   Information sur le problème individuel à résoudre.
+
+## 7. Outils de développement
+
+- Langages Classiques:
+  - C, Fortran
+- Langages Objets:
+  - C++, java, Smalltalk
+- Langages IA:
+  - Prolog, Lisp
+- Générateurs de SE:
+  - Clips, FuzzyClips, Kappa
 
 :::danger
 Limites d'un SE?
 
 ---
+
+- Le développement et la maintenance des BCs.
+- Dans une applicatoin complexe, les différents points de vue des experts main notre BC à contenir des connaissance hétérogènes et contradictoires.
+- Une BC ne peut pas contenir toutes ces connaissances.
 
 :::
