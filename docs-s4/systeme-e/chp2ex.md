@@ -5,6 +5,8 @@ sidebar_position: 3
 
 ## Exercice 1
 
+![image](https://user-images.githubusercontent.com/72823374/175359709-67386632-378c-4457-9175-32898366e25f.png)
+
 - **L'environnement E**:
 
   bibliothèque de l'ESI
