@@ -1,5 +1,5 @@
 ---
-title: Introduction
+title: L'Intelligence Artificielle
 sidebar_position: 1
 ---
 
