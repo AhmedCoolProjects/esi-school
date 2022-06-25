@@ -74,3 +74,43 @@ Selon TURING: _toute intelligence cognitive humaine est modélisable_ dans le ca
 - Extraire des connaissances de grandes masses de données.
 - L'adaptation des systèmes à des environnements changeants.
 - Le flux de Big Data en temps réel avec une très grande quantité.
+
+## 2. Approches de l'IA
+
+### 2.1. Approche Symbolique
+
+Fondée sur la modélisation du raisonnement logique et la représentation et la manipulation de la connaissance par des **symboles** formels.
+
+Elle modélise les concepts par des **objets** reliés entre eux par des **prédicats logique**.
+
+C'est une approche **macro** de résolution de problèmes.
+
+Largement utilisée pour les **systèmes experts** et le **web sémantique**.
+
+Exemples d'application: **Indexation des contenus**, **analyse de textes**, **démonstration automatique**, **recherche de l'information**, etc.
+
+### 2.2. Approche Statistique/Probabiliste
+
+Fondée sur des méthodes **mathématiques** et **statistiques** pour donner à la machine, la capacité d'apprentissage à partir des données.
+
+Equivalente au **ML**
+
+![image](https://user-images.githubusercontent.com/72823374/175769754-673dff49-1041-427e-b886-1673d3e49300.png)
+
+Exemples des domaines d'application: **prise de décision**, **analyse des risques**, **analyse de comportements**, **détection de fraudes**, **segmentation**, **prédiction**, etc.
+
+### 2.3. Approche Connexionniste
+
+Approche Ascendante: Processus mental de **bas niveau**.
+
+Les **réseau neurons** sont des modèles décrits par: **composants**, **variables descriptives**, **interactions**.
+
+La **cognition** est définie comme une propriété émergente de nombreuses **interactions** d'un réseau neuronal.
+
+L'information est traitée d'une **façon parallèle** dans un réseau de neurone.
+
+Cette approche propose une vision **micro** de résolution de problèmes.
+
+Chaque neurone artificiel est un **processus élémentaire**.
+
+Exemples des domaines d'application: **prédiction**, **segmentation**, **compression des données**, **modélisation de fonctions complexes**.
