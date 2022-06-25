@@ -34,11 +34,43 @@ Il y a 4 approches:
 
     Comprendre le fonctionnement de la pensée humaine en utilisant des modèles informatiques. _(Bellman, Simon, etc.)_
 
-    - **Approche Logique**:
+  - **Approche Logique**:
 
-      Compréhension et automatisation du raisonnement logique. _(Hayes, Moore.)_
+    Compréhension et automatisation du raisonnement logique. _(Hayes, Moore.)_
 
 - **Comprendre le Comportement Intelligent**:
 
   - **Approche Imitative**:
+
+    Des machines dont le comportement est comparable à celui de l'Homme. _(Minskey, Turing)_
+
   - **Approche Pragmatique**:
+
+    Des machines dont le comportement répond à un objectif rationnel. _(Luger, Stubblefield, etc.)_
+
+### 1.3. Processus Cognitif/Intelligent
+
+C'est un processus des activités mentales des etres humains: **perception**, **raisonnement**, **émotions**, **apprentissage**, **reconnaissance**, **traitement de langage**, **démonstration des théorèmes**, **jeux**, **résolution des problèmes**, etc.
+
+Tout cela est inclu en somme dans un système hypercomplexe de l'etre humain appelé **l'Esprit Humain**.
+
+### 1.4. Machine de TURING _(1912-1954)_
+
+Selon TURING: _toute intelligence cognitive humaine est modélisable_ dans le cadre formel de sa machine. La mchine de TURING est une machine abstraite capable d'effectuer des calculs et de stocker des données.
+
+### 1.5. Champs de l'IA
+
+- Traitement d'**Image** et des **Videos**
+- Traitement du **Langage Naturel**
+- Démonstration des **Théorèmes**
+- **Apprentissage Automatique**
+- La **Robotique**
+- **Jeux**
+- etc.
+
+### 1.6. Défis de l'IA
+
+- Fournir les technologies du Web Sémantique avancé.
+- Extraire des connaissances de grandes masses de données.
+- L'adaptation des systèmes à des environnements changeants.
+- Le flux de Big Data en temps réel avec une très grande quantité.
