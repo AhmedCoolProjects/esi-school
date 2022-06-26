@@ -231,7 +231,15 @@ Plusieurs modèles existent: **AGR**, **AUML**, **MOISE+**, **ODML**, **OMNI**, 
 
 :::
 
-## 6. Langages et Outils
+## 6. Communication d'un SMA
+
+### 6.1. Communication Directe
+
+Des messages directes entres les agents. Langages de communication utilisés ici: **ACL, KQML, FIPA-ACL**, qui doit étre indépendant du langage de programmation.
+
+### 6.2. Communication Indirecte
+
+Passe par le **partage** d'informations via l'E.
 
 ## 7. Applications des SMA
 
