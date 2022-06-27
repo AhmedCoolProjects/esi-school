@@ -267,6 +267,8 @@ Il **mesure la différence** entre le tableau de contingence théorique et le ta
 
 Si l'écart entre les 2 tableaux est **petit** alors on **valide** l'**H0**, sinon on **rejette** l'**H0**.
 
+Dans un test **khi-2**, on possède une marge de risque de **5%**.
+
 Exemple:
 
 |       | ROUGE | BLUE |
@@ -284,6 +286,41 @@ _Tableau de contingence théorique_, _occurrences attendues: (fréquences si les
 _Tableau de contingence empirique_, _occurrences observées_
 
 On Remarque ici que la différence entre les 2 tableaux est **grand**, alors on **rejette** l'**H0**, donc: Il y a une relation entre les 2 variables.
+
+:::info
+Dans SPSS, il y a un indicateur qui nous permet directement de valider ou rejeter une hypothèse H0.
+
+---
+
+**P-value**: le plus petit risque qu'on aurait pu prendre en rejetant l'hypothèse H0.
+
+- si $p \leq 0.05$: association statistiquement significative.
+- si $p \gt 0.05$: impossible d'affirmer une association.
+
+:::
+
+### 4.4. V de Cramer
+
+:::note
+Khi-2 donne la signification mais pas la force de la relation.
+:::
+
+- V de Cramer se varie entre 0 et 1.
+
+| Valeur    | Force du lien statistique |
+| --------- | ------------------------- |
+| 0         | Absence de relation       |
+| 0.05-0.10 | Très faible               |
+| 0.10-0.20 | Faible                    |
+| 0.20-0.40 | Modérée                   |
+| 0.40-0.80 | Forte                     |
+| 0.80-1.00 | Louche _(Colinéarité)_    |
+
+---
+
+:::note
+La masse de données est importante pour bien connaitre s'il y a une relation entre les 2 variables.
+:::
 
 ## 5. Corrélation
 
