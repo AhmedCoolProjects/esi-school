@@ -325,3 +325,19 @@ La masse de données est importante pour bien connaitre s'il y a une relation en
 ## 5. Corrélation
 
 ## 6. Régression linéaire
+
+`Analyse -> Régression -> Régression linéaire`
+
+### 6.1. Etapes
+
+- **Apprentissage**:
+
+  Sur un échantillon, on apprend **la formule** de la _droite d'ajustement_.
+
+- **Prédiction**:
+
+  Pour une nouvelle valeur _X_ de la population, on prédit _Y_ à l'aide de la _formule de la droite d'ajustement_.
+
+### 6.1. Régression linéaire simple
+
+### 6.2. Régression linéaire multiple
