@@ -61,4 +61,46 @@ Par **mesure de l'écart entre les objectifs préétablis et les résultats**. S
 
 ### 3.1. Évaluation Qualitative
 
+Relève de l'observation in situ de l'organisation du travail, des méthodes de diagnostic et voire d'audit.
+
 ### 3.2. Évaluation Quantitative
+
+Fait appel à l'exploitation des relevés statistiques et à la lecture des indicateurs. _(évaluation annuelle du fonctionnement, taille du stock, fonds, lusage, ..)_
+
+## 4. Approches Alternatives
+
+### 4.1. Approche Orientée Objectif
+
+Importance aux spécifications des buts et objectifs de la bibliothèque. _(Le plus utilisé)_
+
+### 4.2. Approche Orientée Gestion
+
+Utilisation d'indicateurs de bord pour guider les décisions de gestion.
+
+### 4.3. Approche Orientée Expert
+
+Application directe de l'expertise professionnelle pour juger la qualité.
+
+### 4.4. Approche Orientée Participation/naturaliste
+
+Travail de collaboration entre l'évaluateur et les décideurs. _(importance d'implimenter les participants avec les décideurs pour déterminer les valeurs, les critères, les données, les besoins, ...)_
+
+## 5. Outils de l'évaluation
+
+### 5.1. Indicateurs
+
+Les types:
+
+- **d'Activité**:
+- **de Performance**:
+- **de Qualité**:
+
+Les formes d'indicateus:
+
+- **Des comptages**:
+- **Des Ratios Composites**:
+- **Des Moyennes**:
+- **Des Taux**:
+- **Des Notations**
+
+### 5.2. Tableau de bord

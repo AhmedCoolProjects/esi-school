@@ -23,4 +23,12 @@ sidebar_position: 2
 
 ## 2. Jeux Sous forme Extensive
 
-Ils donnent une représentation adéquate de joueurs effectuant des choix de **stratégies simultanés**.
+### 2.1. Pourquoi?
+
+Dans les jeux sous forme normale, Ils donnent une représentation adéquate de joueurs effectuant des choix de **stratégies simultanés** où aucun joueur n'a d'information sur les stratégies utilisées par les autres au moment de faire ses choix. Mais, plusieurs situations sont au contraire, comme le cas dans une négociation, jeu d'échecs, Poker, ...
+
+Pour représenter ces possiblités, nous introduisons la représentation d'un _jeu sous forme d'un arbre_ ou _représentation sous forme extensive_.
+
+### 2.2. Composants
+
+- **Ensemble de joueurs N**:
