@@ -1,37 +1,13 @@
-f# CODE ESI DOCS
+# ESI School
 
-[docs.codeesi.com](https://docs.codeesi.com)
+## Preview
 
-## About the project
+![img](https://firebasestorage.googleapis.com/v0/b/portfoliov2-ba7d2.appspot.com/o/projects%2FWEB_DEVELOPMENT%2Fhttps%3A%2Fesi.codeesi.com?alt=media&token=ff8c97a3-74c1-4076-81ae-ce3d7119e6da)
 
-This project contains all CODE ESI project documentations, events, competitions and sharing nights meetings ...
+## Check it
 
-## Used technical skills
+[ESI School](https://esi.codeesi.com/)
 
-- ReactJS
-- Typescript
-- Docusaurus
-- Vercel
-- Figma
+## For more
 
-## Project Folders
-
-### **/blog:** for competitions
-
-### **/blog-events:** for CODE events
-
-### **/docs:** for CODE training classes and projects
-
-### **/docs-sharing-night:** for CODE sharing nights
-
-### **/src/pages:** for project ReactJS pages
-
-### **/static/img:** for project static images
-
-# CODE ESI - Official Site -
-
-[codeesi.com](https://codeesi.com)
-
-# Created By
-
-[Ahmed Bargady](https://ahmedbargdy.me)
+[Ahmed Bargady | Projects](https://ahmedbaragdy.me/projects)
