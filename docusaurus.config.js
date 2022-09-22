@@ -23,6 +23,12 @@ const config = {
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
         },
+        sitemap: {
+          changefreq: "weekly",
+          priority: 0.5,
+          ignorePatterns: ["/tags/**"],
+          filename: "sitemap.xml",
+        },
       }),
     ],
   ],
@@ -127,6 +133,11 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      algolia: {
+        apiKey: "77296bb7ad922495c8e8033c53ecdf51",
+        appId: "63DRANEFZW",
+        indexName: "prod_index",
+      },
       navbar: {
         title: "ESI School Docs",
         logo: {
@@ -137,43 +148,43 @@ const config = {
         },
         items: [
           {
-            to: "/docs-s1/intro",
+            to: "/docs-s1",
             label: "S1",
             position: "left",
             activeBaseRegex: `/docs-s1/`,
           },
           {
-            to: "/docs-s2/intro",
+            to: "/docs-s2",
             label: "S2",
             position: "left",
             activeBaseRegex: `/docs-s2/`,
           },
           {
-            to: "/docs-s3/intro",
+            to: "/docs-s3",
             label: "S3",
             position: "left",
             activeBaseRegex: `/docs-s3/`,
           },
           {
-            to: "/docs-s4/intro",
+            to: "/docs-s4",
             label: "S4",
             position: "left",
             activeBaseRegex: `/docs-s4/`,
           },
           {
-            to: "/docs-s5/intro",
+            to: "/docs-s5",
             label: "S5",
             position: "left",
             activeBaseRegex: `/docs-s5/`,
           },
           {
-            to: "/docs-events/intro",
+            to: "/docs-events",
             label: "Events",
             position: "left",
             activeBaseRegex: `/docs-events/`,
           },
           {
-            to: "/blog/intro",
+            to: "/blog",
             label: "Blog",
             position: "left",
             activeBaseRegex: `/blog/`,
@@ -244,27 +255,6 @@ const config = {
         darkTheme: darkCodeTheme,
         additionalLanguages: ["java"],
       },
-
-      // algolia: {
-      //   // The application ID provided by Algolia
-      //   appId: "YOUR_APP_ID",
-
-      //   // Public API key: it is safe to commit it
-      //   apiKey: "YOUR_SEARCH_API_KEY",
-
-      //   indexName: "YOUR_INDEX_NAME",
-
-      //   // Optional: see doc section below
-      //   contextualSearch: true,
-
-      //   // Optional: Specify domains where the navigation should occur through window.location instead on history.push. Useful when our Algolia config crawls multiple documentation sites and we want to navigate with window.location.href to them.
-      //   externalUrlRegex: "external\\.com|domain\\.com",
-
-      //   // Optional: Algolia search parameters
-      //   searchParameters: {},
-
-      //   //... other Algolia params
-      // },
     }),
   stylesheets: [
     {
@@ -275,13 +265,6 @@ const config = {
       crossorigin: "anonymous",
     },
   ],
-  // scripts: [
-  //   {
-  //     src: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9462389809344404",
-  //     async: true,
-  //     crossOrigin: "anonymous",
-  //   },
-  // ],
 };
 
 module.exports = config;
