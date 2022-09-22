@@ -27,9 +27,7 @@ function HomepageHeader() {
           </Translate>
         </p>
         <div className={styles.buttons}>
-          <Link
-            className="button button--secondary button--lg"
-            to="/docs-s1/intro">
+          <Link className="button button--secondary button--lg" to="/docs-s1">
             <Translate>Start Learning</Translate>
           </Link>
         </div>
@@ -45,7 +43,8 @@ export default function Home(): JSX.Element {
         message: "WELCOME",
         description: "welcome title",
       })}
-      description="ESI, official documentation web app for courses, tps, tds, exams, activities and more">
+      description="ESI, official documentation web app for courses, tps, tds, exams, activities and more"
+    >
       <HomepageHeader />
       <main>
         <HomepageESIClubs />
